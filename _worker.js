@@ -6,14 +6,26 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 //设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'icook.tw:2053#hxj优选域名',
-	'cloudflare.cfgo.cc2053#hxj优选域名',
+	'cloudflare.cfgo.cc:2053#hxj优选域名',
 	'www.visakorea.com:2053#hxj优选 ',
         'www.gco.gov.qa:2053#hxj优选 ',
-         'www.gov.se:#hxj优选 ',
-        'www.gov.ua:80#hxj优选 ',
- 'www.digitalocean.com:80#hxj优选 ',
- 'www.csgo.com:80#hxj优选 ',
- 'www.shopify.com:80#hxj优选 ',
+         'www.gov.se:2053#hxj优选 ',
+        'www.gov.ua:2053#hxj优选 ',
+ 'www.digitalocean.com:2053#hxj优选 ',
+ 'www.csgo.com:2053#hxj优选 ',
+ 'www.shopify.com:2053#hxj优选 ',
+	 'xn--b6gac.eu.org:2053#hxj优选 ',
+ 'edgetunnel.anycast.eu.org:2053#hxj优选 ',
+ 'alejandracaiccedo.com:2053#hxj优选 ',
+ 'nc.gocada.co:2053#hxj优选 ',
+ 'log.bpminecraft.com:2053#hxj优选 ',
+ 'www.boba88slot.com:2053#hxj优选 ',
+ 'gur.gov.ua:2053#hxj优选 ',
+ 'www.zsu.gov.ua:2053#hxj优选 ',
+ 'www.iakeys.com:2053#hxj优选 ',
+ 'edtunnel-dgp.pages.dev:2053#hxj优选 ',
+ 'www.d-555.com:2053#hxj优选 ',
+ 'fbi.gov:2053#hxj优选 ',
 	
 ];
 
