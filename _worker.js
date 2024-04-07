@@ -6,7 +6,14 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'icook.tw:2053#hxj优选域名',
-	//'cloudflare.cfgo.cc#优选官方线路',
+	'cloudflare.cfgo.cc#hxj优选域名',
+	'www.visakorea.com:80#hxj优选 ',
+        'www.gco.gov.qa:80#hxj优选 ',
+         'www.gov.se:80#hxj优选 ',
+        'www.gov.ua:80#hxj优选 ',
+ 'www.digitalocean.com:80#hxj优选 ',
+ 'www.csgo.com:80#hxj优选 ',
+ 'www.shopify.com:80#hxj优选 ',
 	
 ];
 
